@@ -20,4 +20,10 @@ For Android/ PyDroid please uncomment the lines
 ```
 Pyperclip is incompatible with Android so comment out the lines or delete them.
 
+## EXE comiled with PyInstaller, if you want to build from source run the bat file which is basically
+```
+pyinstaller  --clean --onefile --windowed --icon=icon314.ico --upx-dir=C:\upx-3.96-win64 -y calender_generator.py
+pause
+```
+
 ## Comments, suggestions, corrections and errors are always welcome!!!
