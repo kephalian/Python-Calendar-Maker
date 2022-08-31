@@ -23,8 +23,8 @@ For Android/ PyDroid please uncomment the lines
 #Without this all activity will be apps personal folder deep inside Android folder android/app/data
 ```
 Pyperclip is incompatible with Android so comment out the lines or delete them.
-
-## EXE comiled with PyInstaller, if you want to build from source run the bat file which is basically
+## PyInstaller full is you want to compile from source
+## EXE comiled with PyInstaller, if you want to build from source run the bat file from ![here](https://github.com/kephalian/Python-Calendar-Maker/blob/main/new_exe.bat) which is basically
 ```
 pyinstaller  --clean --onefile --windowed --icon=icon314.ico --upx-dir=C:\upx-3.96-win64 -y calender_generator.py
 pause
