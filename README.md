@@ -4,10 +4,15 @@ Generate Calanders in Python (GUI Application using PySimpleGUI)
 ![Calander](https://github.com/kephalian/Python-Calendar-Maker/blob/main/Screenshot%20from%202022-08-31%2021-47-00.png)
 # Installation
 Download prebuilt Windows EXE file built with PyInstaller ![Here](https://github.com/kephalian/Python-Calendar-Maker/blob/main/calender_generator.exe)
+
 Study the code and fork ![Here](https://github.com/kephalian/Python-Calendar-Maker/blob/main/calender_generator.py)
+
 [Jupyter notebook](https://github.com/kephalian/Python-Calendar-Maker/blob/main/Calander_maker.ipynb)
+
 Build from source on your system using PyInstaller ![Here](https://github.com/kephalian/Python-Calendar-Maker/blob/main/new_exe.bat)
+
 This will fail, please include my icon in the current directory or remove the icon file. Icon can be found ![Here](https://github.com/kephalian/Python-Calendar-Maker/blob/main/icon314.ico)
+
 ## Dependencies
 ```
 import calendar, sys
